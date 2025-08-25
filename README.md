@@ -1,23 +1,12 @@
 # Decomposition
 
-Modern proje yönetimi uygulaması.
+Modern project management application.
 
-## Özellikler
+## Features
 
-- Proje ayrıştırma ve yönetimi
-- Takım işbirliği
-- İlerleme takibi
-- Modern ve responsive tasarım
+- Project decomposition and management
+- Team collaboration
+- Progress tracking
+- Modern and responsive design
 
-## Kurulum
-
-```bash
-npm install
-npm start
-```
-
-## Teknolojiler
-
-- React
-- JavaScript
-- HTML/CSS
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
